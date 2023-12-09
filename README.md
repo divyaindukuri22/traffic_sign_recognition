@@ -40,5 +40,5 @@ The Traffic Sign Recognition project is a machine learning-based system designed
 
 ## Output
 
-![Traffic Sign Recognition](./images/traffic_sign_recognition.png)
+![Traffic Sign Recognition](./output.png)
 
