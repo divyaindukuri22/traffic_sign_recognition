@@ -38,3 +38,7 @@ The Traffic Sign Recognition project is a machine learning-based system designed
 - Image Processing: OpenCV
 - Deployment: Docker
 
+## Output
+
+![Traffic Sign Recognition](./images/traffic_sign_recognition.png)
+
